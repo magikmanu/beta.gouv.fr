@@ -1,13 +1,13 @@
 ---
 title: Code du travail numérique
-mission: Faciliter l'accès au droit du travail pour les employeurs et les employés.
+mission: Faciliter l'accès au droit du travail pour les employeur·e·s et les employé·e·s.
 status: investigation
 contact: contact@beta.gouv.fr
 start: 2017-12-01
 owner: Ministère des Affaires sociales
 ---
 
-Seuls quelques experts comprennent aujourd'hui la complexité du droit du travail; code du travail, accords de branches, conventions collectives et accords d'entreprises. En plus de la diversité des sources de droit, la technicité de la matière la rend peu accessible pour ceux qu'elle concerne : les employeurs et les salariés.
+Seul un public d'expert·e·s maitrîse la complexité du code du travail et de ses différentes sources de droit (accords de branches, conventions collectives et accords d'entreprises...). En plus de la diversité des sources de droit, la technicité de la matière la rend peu accessible pour les concerné·e·s : les employeur·e·s et les salarié·e·s.
 
 Or tous les actifs sont impactés tous les jours par le droit qui régit leurs interactions au travail, qui, mal compris, mal appliqué, peut avoir des conséquences importantes pour l'employé comme pour l'employeur. 
 

@@ -48,7 +48,7 @@ Vous avez l’habitude des modalités de contribution du logiciel libre (issues,
 - Développeur web avec une bonne expérience dans (au moins) un framework web moderne (NodeJS, Rails, Symphony, Laravel, Django/Flask...).
 - Bonne maîtrise du développement front-end (HTML, CSS, Javascript).
 - Expérience en conception orientée utilisateur et en expérience utilisateur.
-- Expérience de l’écosystème technique web : test AB, analytics…
+- Expérience de l’écosystème technique web : test AB, analytics.
 
 ## Modalités
 
